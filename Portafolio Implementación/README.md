@@ -1,7 +1,7 @@
 # Portafolio Implementación
 
 ## Carpetas y archivos:
--Reto:
+- Reto:
 - Big Data:
 - Deep Learning:
 - Procesamiento de Lenguaje Natural:
