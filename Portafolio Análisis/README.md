@@ -1,7 +1,12 @@
 # Portafolio Análisis
 
 ## Carpetas y archivos:
--Reto:
+- Reto:
+  - Reporte Reto
+  - Presentacion
+  - Red Neuronal
+  - Regresión Logistica
+  - Random Forest
 - Big Data:
   - Instalación Spark
   - Terminal y Putty
