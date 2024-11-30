@@ -3,8 +3,11 @@
 ## Carpetas y archivos:
 -Reto:
 - Big Data:
-- Deep Learning:
-- Procesamiento de Lenguaje Natural:
+  - Instalación Spark
+  - Terminal y Putty
+  - Base de Datos
+  - Diagrama Relacional
+  - Instalación MySQL
 - Cloud Computing:
   - Evidencia Portafolio Individual
   - Diseño de Arquitectura en la Nube
